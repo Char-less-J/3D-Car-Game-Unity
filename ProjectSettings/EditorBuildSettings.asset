@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Start Menu.unity
+    guid: 9fc63c60303f44af5bda48e7c66bf1d2
+  - enabled: 1
+    path: Assets/CharlesScene1.unity
+    guid: add99104ff5dc45ef8dc77befe355b1f
+  - enabled: 1
+    path: Assets/CharlesScene2.unity
+    guid: 8bc86ad64337b446998cd0b454ae089f
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/86e7754ba2ce74b28860eab9163e3601
+    guid: 86e7754ba2ce74b28860eab9163e3601
+  - enabled: 1
+    path: Assets/CharlesScene3.unity
+    guid: 56fd80d468fa04a49a8d6e547392d242
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: 73a29235404c2464bb5ec5dc9bd7362b
